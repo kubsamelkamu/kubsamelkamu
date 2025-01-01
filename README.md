@@ -16,9 +16,9 @@ I believe that continuous learning and collaboration are key to growth and innov
 
 - ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, Java and Python
+- **Languages:** JavaScript,Typescript, Java and Python
 - **Frameworks:** React, Node.js
-- **Tools & Platforms:** Git
+- **Tools** Git , Docker
 
 ## 💡 Fun Fact
 
