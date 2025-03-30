@@ -6,4 +6,4 @@
 [📧 Email](mailto:kubsamlkm@gmail.com) | [💬 Telegram](https://t.me/Kubsea)
 
 ## ⚡ Fun fact  
-I love #LOVE#.
+I love *LOVE*.
